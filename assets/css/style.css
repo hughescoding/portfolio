@@ -1,0 +1,23 @@
+.parallax-container {
+    height: 500px;
+    border: solid black 1px;
+  }
+
+.parallax-text {
+  padding: 30px;
+  background-color: #eceff1;
+  text-align: center;
+}
+
+  body {
+    font-family: 'Source Code Pro', monospace;
+    font-size: 20px;
+  }
+
+  p {
+    font-family: 'Montserrat', sans-serif;
+  }
+
+  a {
+    color: blueviolet;
+  }
